@@ -34,7 +34,7 @@ all of the financial information and convert the data to either lean to 0 or 1. 
 ![image](https://github.com/Nisloen/Assignment-20-Machine-Learning/assets/134130254/b0d7ae43-0319-47c5-9765-747aa61f37ca)
 
 
-<h6> Results </h6>
+### Results
 With the supervised machine learning, through logistic regression, the overall confusion matrix result that was achieved is shown below: </br>
 ![image](https://github.com/Nisloen/Assignment-20-Machine-Learning/assets/134130254/15be2132-7ef2-4dc8-8498-c1f078b1e6e1)
 
@@ -45,7 +45,7 @@ The result shows that the machine can accurately predict the '0' perfectly, howe
 with the recall score with a score of 0.91. This means that out of all of the data from all of data indentified as positive from the machine, 91% are correct. The accuracy of the overall result is 0.99 (99%)
 which is true as the confusion matrix showed about 102 of the tested data are in the false positive. 
 
-<h7>Summary </h7>
+### Summary
 
 Based on the model's performance, it's likely that this model can be a usefule tool in predicting good loans from the bad loans, despite not being 100% precise. Although the accuracy score of 0.99 isn't convincing
 enough. Both the precision and recall does help in that factor. For the 0 which is the good loan, the score is close 1.00 which a strong support in stating that it is very good at predicting good loans.
