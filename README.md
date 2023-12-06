@@ -1,4 +1,4 @@
-# Credit Card Model Prediction-Machine_Learning
+# Credit Loan Model Prediction-Machine_Learning
 This is a repository for module challenge 20 which focus on supervised machine learning with the loan as an example.
 
 <h2> The Datasource</h2>
