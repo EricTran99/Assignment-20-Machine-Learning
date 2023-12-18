@@ -9,7 +9,7 @@ There are two files in the repository:
 ![image](https://github.com/Nisloen/Assignment-20-Machine-Learning/assets/134130254/c9cfddeb-9921-4e28-aae3-dd3e4b064745)
 
 
-<h3> Overview of Analysis</h3>
+## Overview of Analysis
 The main point of the script is to take known data from previous results to train the machine to learn its pattern in order to 
 make predictions in the future. In this repository, the datasource contains various financial data, however the main column in which the machine learning is collecting training data from 
 is the loan_status that reads out two results;
