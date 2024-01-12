@@ -1,5 +1,6 @@
 # Credit Loan Model Prediction-Machine_Learning
 
+This module focus on training a model with previous dataset regarding credit loans with various statistics as references, which the model would then be used to predict the risk of upcoming credit loans.
 
 <h2> The Datasource</h2>
 There are two files in the repository: <br/>
