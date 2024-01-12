@@ -2,8 +2,8 @@
 
 
 <h2> The Datasource</h2>
-There are two files in the repository:
-1. The lending_data.csv which resides in the Resources folder contains the data used for machine learning
+There are two files in the repository: <br/>
+1. The lending_data.csv which resides in the Resources folder contains the data used for machine learning <br/>
 2. credit_risk_classification.ipynb which is the main code script containing the script for supervised machine learning. </br>
 
 ![image](https://github.com/Nisloen/Assignment-20-Machine-Learning/assets/134130254/c9cfddeb-9921-4e28-aae3-dd3e4b064745)
